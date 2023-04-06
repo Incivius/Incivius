@@ -12,9 +12,9 @@ Aqui você vai encontrar muitos rascunhos, códigos complexos e outros nem tanto
 
 <a href="https://github.com/Incivius">
   <div align="center">
-    <img height="180em" 
+    <img height="150em" 
          src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Incivius&show_icons=true&count_private=true&theme=github_dark"/>
-    <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Incivius&layout=compact&langs_count=10&count_private=true&theme=github_dark"/>  
+    <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Incivius&layout=compact&langs_count=10&count_private=true&theme=github_dark"/>  
     <div align="center">
 </a>
 

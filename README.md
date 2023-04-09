@@ -6,7 +6,7 @@ Aqui você vai encontrar muitos rascunhos, códigos complexos e outros nem tanto
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Incivius" src="https://github-profile-trophy.vercel.app/?username=Incivius&theme=radical&no-bg=true&no-frame=true&column=-1"/>
+    <img alt="Incivius" src="https://github-profile-trophy.vercel.app/?username=Incivius&theme=alduin"/>
   </a>
 </p>
 

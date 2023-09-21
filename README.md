@@ -1,8 +1,8 @@
 # Bem vindo ao meu repositório 👽
 
-Estou estudando Banco de Dados, aprendendo e me sentindo cada dia mais confuso kk Brincadeira.
+Estou estudando Banco de Dados, apaixonado por programação e logica. 
 
-Aqui você vai encontrar muitos rascunhos, códigos complexos e outros nem tanto, sem plagios por favor. 
+Aqui você vai encontrar muitos rascunhos, códigos complexos e outros nem tanto.
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
